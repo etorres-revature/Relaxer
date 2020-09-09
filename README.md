@@ -14,7 +14,7 @@ WHOOOOOOOOOSSSSSSSHHHHHHHHH!!
 
 ![RELAXER exhale](./assets/img/screenshots/relaxer-breath-out.png)
 
-Please enjoy the [SortList](https://etorres-revature.github.io/SortList/).  E-mail me with any feature update suggestions.
+Please enjoy the [Relaxer](https://etorres-revature.github.io/Relaxer/).  E-mail me with any feature update suggestions.
 
 ### :computer: Technologies Used :computer:
 
