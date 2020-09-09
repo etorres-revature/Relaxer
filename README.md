@@ -10,6 +10,10 @@ BREATH IN ...
 
 ![RELAXER breath in ...](./assets/img/screenshots/relaxer-breath-in.png)
 
+... HOLD ...
+
+![RELAXER hold](./assets/img/screenshots/relaxer-hold.png)
+
 WHOOOOOOOOOSSSSSSSHHHHHHHHH!!
 
 ![RELAXER exhale](./assets/img/screenshots/relaxer-breath-out.png)
