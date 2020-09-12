@@ -21,6 +21,10 @@ transform: scale(0.93);
   outline: 0;
 }
 
+i {
+  padding: 3.5px;
+}
+
 /* iframe {
   display:none;
 } */
