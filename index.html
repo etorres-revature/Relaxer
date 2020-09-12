@@ -17,12 +17,20 @@
     />
     <link rel="stylesheet" href="./style.css" />
   </head>
+
   <body>
-    <audio
-      src="./assets/music/2019-04-06_-_Deep_Meditation_-_David_Fesliyan.mp3"
-      autoplay
-      loop="true"
-    ></audio>
+    <button id="play-btn" type="button">
+      Click to Play/Pause restful music
+    </button>
+
+    <!-- <iframe src=”./assets/music/2019-04-06_-_Deep_Meditation_-_David_fesilyan.mp3″ type=”audio/mp3″ autoplay id=”iframeAudio”></iframe> -->
+    <audio autoplay loop="true">
+      <source
+        src="./assets/music/2019-04-06_-_Deep_Meditation_-_David_Fesliyan.mp3"
+        type="audio/mp3"
+        id="playAudio"
+      />
+    </audio>
 
     <h1>RELAXER</h1>
 
